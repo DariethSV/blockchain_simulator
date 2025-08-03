@@ -1,6 +1,6 @@
-import Blockchain
+from Blockchain import Blockchain
 from Block import Block
-import Consensus
+from Consensus import Consensus
 
 def main():
     counter = 1
